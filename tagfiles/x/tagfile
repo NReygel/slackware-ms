@@ -296,7 +296,7 @@ xorg-server-xnest:SKP
 xorg-server-xvfb:SKP
 xorg-server-xwayland:SKP
 xorg-sgml-doctools:SKP
-xorgproto:SKP
+xorgproto:ADD
 xpr:ADD
 xprop:ADD
 xpyb:ADD
