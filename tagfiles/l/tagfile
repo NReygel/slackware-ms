@@ -52,7 +52,7 @@ editorconfig-core-c:ADD
 eigen3:ADD
 elfutils:ADD
 enchant:ADD
-esound:ADD
+esound:SKP
 espeak-ng:SKP
 exiv2:ADD
 expat:ADD
@@ -60,9 +60,9 @@ farstream:ADD
 ffmpeg:ADD
 fftw:ADD
 fluidsynth:ADD
-freecell-solver:ADD
+freecell-solver:SKP
 freetype:ADD
-frei0r-plugins:ADD
+frei0r-plugins:SKP
 fribidi:ADD
 fuse:ADD
 fuse3:ADD
