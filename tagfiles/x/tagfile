@@ -308,7 +308,7 @@ xset:ADD
 xsetroot:ADD
 xsm:ADD
 xstdcmap:ADD
-xterm:SKP
+xterm:ADD
 xtrans:ADD
 xvidtune:ADD
 xvinfo:ADD
